@@ -11,7 +11,7 @@ Em breve, terá mais informações sobre às pessoas especiais aqui 😋
   <a href="https://twitter.com/itsfofilter" target="_blank">🐦 @ItsFofilter</a>
   &bull;
   <a href="https://www.twitch.tv/fofilter" target="_blank">📺 Twitch</a>
-  
+
 </p><br>
 
 <h2 align="center">Helike Long</h2>
@@ -21,7 +21,7 @@ Em breve, terá mais informações sobre às pessoas especiais aqui 😋
   <a href="https://twitter.com/HelikeLong" target="_blank">🐦 @HelikeLong</a>
   &bull;
   <a href="https://www.twitch.tv/helikelong" target="_blank">📺 Twitch</a>
-  
+
 </p><br>
 
 <h2 align="center">Sfner</h2>
@@ -31,7 +31,7 @@ Em breve, terá mais informações sobre às pessoas especiais aqui 😋
   <a href="https://twitter.com/SfnerDragon" target="_blank">🐦 @SfnerDragon</a>
   &bull;
   <a href="https://www.twitch.tv/sfner" target="_blank">📺 Twitch</a>
-  
+
 </p><br>
 
 <h2 align="center">Aragubas</h2>
@@ -41,15 +41,15 @@ Em breve, terá mais informações sobre às pessoas especiais aqui 😋
   <a href="https://twitter.com/planet_aragubas" target="_blank">🐦 @planet_aragubas</a>
   &bull;
   <a href="https://github.com/aragubas" target="_blank">🗃️ GitHub</a>
-  
+
 </p><br>
 
 <h2 align="center">Vulcky Kijder</h2>
-<h4>Artista super feliz que contagia, conseguiu me aturar porque sou uma cabeça oca e não sabe descrever seus sentimentos. Fez a primeira Base da Avali :3</h3>
-<br>
+<h4>Artista super feliz que contagia, conseguiu me aturar porque sou uma cabeça oca e não sabe descrever seus sentimentos. Fez a primeira Base da Avali :3</h4>
+
+<p align="center"><img src="https://github.com/Fineekan/Fineekan/blob/master/assets/base-avali-first.png?raw=true" alt="Minha primeira base da Avali feito pela @VulckyKijder" width="400"></p>
 <p align="center">
   <a href="https://twitter.com/vulckykijder" target="_blank">🐦 @VulckyKijder</a>
   &bull;
   <a href="https://www.furaffinity.net/user/Vulcky" target="_blank">🕸️ Furaffinity</a>
-  
 </p><br>
