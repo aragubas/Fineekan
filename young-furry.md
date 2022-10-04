@@ -38,8 +38,6 @@ Em breve, terá mais informações sobre às pessoas especiais aqui 😋
 <h4>Protogen mais divertido e que me ajuda contra o sinas para eu ter um dia maravilhoso, uma noite maravilhosa e uma pizza maravilhosa porque pizza é uma medida de tempo!</h3>
 <br>
 <p align="center">
-  <a href="https://twitter.com/planet_aragubas" target="_blank">🐦 @planet_aragubas</a>
-  &bull;
   <a href="https://github.com/aragubas" target="_blank">🗃️ GitHub</a>
 
 </p><br>
